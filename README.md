@@ -44,6 +44,9 @@ This project is an interactive Power BI dashboard developed to analyze Netflix's
 2. Open it using Power BI Desktop.
 3. Refresh the dataset if required.
 4. Interact with filters and visualizations to explore insights.
+   
+# 📸 Dashboard Preview
+<img width="1216" height="686" alt="Screenshot 2026-06-15 190727" src="https://github.com/user-attachments/assets/136292cc-1f7d-4620-8b1d-3c855ebe4a5b" />
 
 
 ## 📚 Learning Outcomes
